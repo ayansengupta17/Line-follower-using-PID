@@ -17,3 +17,7 @@ It has
 * has support for the servo mounted sensor pod which can be used to make 180 degrees scan for the map making
 
 Robot is powered by 6 cell 7.2V 600mA rechargeable NiMH batteries which gives about one hour battery operation. Robot has built-in Smart Battery Controller which charges the battery in intelligent way and also monitors the battery charge level when robot is in operation. Robot has 2x16 alphanumeric LCD, Lots of LED indicators for quick debugging, Buzzer etc. Motors are controlled by L293D motor driver. Robot gives top speed of 15cm to 20cm per second depending on the model.
+
+## Documentation
+
+This project is a part of the control and computing lab project for IIT Bombay. I have attached the relevant Chapter from our lab report. All the harware details, the mathematical model and the codes are explained in details in that report, so I am not explaining anything more in this readme.
